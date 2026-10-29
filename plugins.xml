@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="JGN Tools" version="1.4.0">
+  <pyqgis_plugin name="JGN Tools" version="1.4.5">
     <description>Your one-line description</description>
-    <version>1.4.0</version>
+    <version>1.4.5</version>
     <qgis_minimum_version>3.00</qgis_minimum_version>
     <qgis_maximum_version>4.99</qgis_maximum_version>
-    <file_name>JGN_Tools_QGIS_Plugins.1.4.0.zip</file_name>
-    <download_url>https://jegan96m.github.io/JGN_Qgis_plugins/JGN_Tools_QGIS_Plugins.1.4.0.zip</download_url>
+    <file_name>JGN_Tools_QGIS_Plugins.1.4.5.zip</file_name>
+    <download_url>https://jegan96m.github.io/JGN_Qgis_plugins/JGN_Tools_QGIS_Plugins.1.4.5.zip</download_url>
     <author_name>JGN</author_name>
   </pyqgis_plugin>
 </plugins>

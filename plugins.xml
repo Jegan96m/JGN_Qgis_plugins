@@ -3,7 +3,7 @@
   <pyqgis_plugin name="JGN Tools" version="1.3.1">
     <description>Your one-line description</description>
     <version>1.4.0</version>
-    <qgis_minimum_version>3.30</qgis_minimum_version>
+    <qgis_minimum_version>3.00</qgis_minimum_version>
     <qgis_maximum_version>4.99</qgis_maximum_version>
     <file_name>JGN_Tools_QGIS_Plugins.1.3.1.zip</file_name>
     <download_url>https://jegan96m.github.io/JGN_Qgis_plugins/JGN_Tools_QGIS_Plugins.1.3.1.zip</download_url>

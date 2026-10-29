@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="JGN Tools" version="1.3.1">
+  <pyqgis_plugin name="JGN Tools" version="1.4.0">
     <description>Your one-line description</description>
     <version>1.4.0</version>
     <qgis_minimum_version>3.00</qgis_minimum_version>

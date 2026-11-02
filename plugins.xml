@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
   <pyqgis_plugin name="JGN Tools" version="1.5.1">
-    <description>Your one-line description</description>
+    <description>A suite of self-developed tools designed to enhance QGIS capabilities, automate specialised tasks, and provide additional functionalities beyond the standard QGIS tools.</description>
     <version>1.5.1</version>
     <qgis_minimum_version>3.00</qgis_minimum_version>
     <qgis_maximum_version>4.99</qgis_maximum_version>
